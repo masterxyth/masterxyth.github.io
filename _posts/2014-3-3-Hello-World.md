@@ -1,4 +1,4 @@
----
+Hey Riz. Suck it. Bam.---
 layout: post
 title: You're up and running!
 ---
